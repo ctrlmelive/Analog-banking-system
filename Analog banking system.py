@@ -1,4 +1,5 @@
 from threading import Thread
+import time
 from time import sleep
 # Analog-banking-system  
 bank = {
