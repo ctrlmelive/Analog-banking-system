@@ -25,6 +25,6 @@ for idx in range(10):
 for thread in theadlist:
     thread.join()
 
-print('Main thread end')
-print(f'Finally, our account balance is {bank["byhy"]}')
+print('Main thread end.')
+print(f'Finally, our account balance is {bank["byhy"]}.')
 
